@@ -30,3 +30,10 @@ minimize∑x∑yC(x,y)⋅T(x,y)minimize∑x​∑y​C(x,y)⋅T(x,y)
 虽然这三个概念在某种程度上都涉及将一些东西从一个地方移到另一个地方以最小化某种成本或差异，但它们的应用领域和问题背景不同。Wasserstein距离主要用于度量概率分布之间的距离，最优传输是一个更一般化的数学问题，而匈牙利匹配用于解决任务分配和组合优化问题。它们各自具有不同的数学形式和应用背景。
 
 代表例子： detr模型
+
+
+## 学习资料
+
+最优传输(Optimal Transport)问题与Wasserstein距离   ：  https://0809zheng.github.io/2022/05/16/Wasserstein.html
+
+Source code for ot.bregman  ：  https://pythonot.github.io/_modules/ot/bregman.html#sinkhorn
