@@ -5,3 +5,5 @@
 3. 在生成过程中，能够获取到内部生成误差的一种无偏估计(OOB)
 4. 对于缺省值问题也能够获得很好得结果/It has an effective method for estimating missing data and maintains accuracy when a large proportion of the data are missing
 
+   (https://zhuanlan.zhihu.com/p/406627649)
+
